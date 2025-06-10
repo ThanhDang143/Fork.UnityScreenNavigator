@@ -1,11 +1,10 @@
 {
-  "name": "com.harumak.unityscreennavigator",
+  "name": "thanhdv.harumak.unityscreennavigator",
   "displayName": "UnityScreenNavigator",
   "version": "1.7.5",
   "unity": "2021.3",
   "license": "MIT",
-  "dependencies": {
-  },
+  "dependencies": {},
   "author": {
     "name": "Haruki Yano",
     "url": "https://github.com/Haruma-K"
